@@ -10,7 +10,7 @@ function setup() {
     aci=0;
     sayac=0;
     yukleniyor=true;
-    toplamSarki = 3;
+    toplamSarki = 2;
 
     for(var i = 1;i<=toplamSarki;i++)
     {
