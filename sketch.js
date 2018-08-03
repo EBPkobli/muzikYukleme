@@ -14,7 +14,7 @@ function setup() {
 
     for(var i = 1;i<=toplamSarki;i++)
     {
-        soundYukleme('sarkilar/sarki'+i+'.mkv')
+        soundYukleme('https://github.com/EBPkobli/muzikYukleme/blob/master/sarkilar/sarki'+i+'.mkv')
     }
 
 }
